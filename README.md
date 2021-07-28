@@ -23,11 +23,11 @@ With all this information available at one click, allied to the fact that I will
 
 This project was done in Python, using these libraries:
 
--[X] Pandas
--[X] Numpy
--[X] Scipy
--[X] Matplotlib
--[X] Seaborn
+- [X] Pandas
+- [X] Numpy
+- [X] Scipy
+- [X] Matplotlib
+- [X] Seaborn
 
 ## ✒️ Developer
 
